@@ -48,7 +48,8 @@
 					'寒雨连江夜入吴',
 					'平明送客楚山孤',
 					'洛阳亲友如相问',
-					'一片冰心在玉壶'
+					'一片冰心在玉壶',
+					'作者'
 				],
 				list1: [
 					'https://cdn.uviewui.com/uview/swiper/swiper1.png'
